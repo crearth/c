@@ -15,5 +15,5 @@ use `#include <library>` to include a library in the program
 
 ## TODO:
 
-- [] cin.ignore
-- [] cin<< (output) and cin>> (intput)
+- [ ] cin.ignore
+- [ ] cin<< (output) and cin>> (intput)
