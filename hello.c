@@ -17,17 +17,17 @@ int main() {
 	float decimal;
 	char character;
 	string word;
-	int var;
+	string var1; 	// moet string zijn voor input 
 
 	number = 1;
 	decimal = 1.1;
 	character = 'f';
 	word = "hello";
 	
-	cin>>var; 	// read value from keyboard
+	cin>>var1; 	// read value from keyboard
 	cin.ignore();	// reads a dummy (?) 
 
-	cout<<number<<" "<<decimal<<" "<<character<<" "<<word<<endl;
+	std::cout << number << " " << decimal << " " << character<<" "<<word<<" input: "<<var1;
 
 	cin.get(); 	// stalls the program until a key is pressed
 	return 0;	// return 0, 1 is error
