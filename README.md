@@ -38,5 +38,5 @@ Libraries are precompiled 'packages' for reuse in other programs.
 
 ## thanks
 sites used:
-	- https://www.learncpp.com
-	- https://www.howtoforge.com
+- https://www.learncpp.com
+- https://www.howtoforge.com
