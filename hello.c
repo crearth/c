@@ -25,7 +25,7 @@ int main() {
 	word = "hello";
 	
 	cin>>var; 	// read value from keyboard
-	cin.ignore;	// reads a dummy (?) 
+	cin.ignore();	// reads a dummy (?) 
 
 	cout<<number<<" "<<decimal<<" "<<character<<" "<<word<<endl;
 
