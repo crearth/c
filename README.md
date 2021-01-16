@@ -13,3 +13,7 @@ use `#include <library>` to include a library in the program
 - standard:
 	- iostream: for input and output capabilities
 
+## TODO:
+
+- [] cin.ignore
+- [] cin<< (output) and cin>> (intput)
