@@ -1,12 +1,12 @@
 #include<iostream>
 using namespace std;
 
-int main ()
+int main()
 {
+int number1 , number2;
+cout<<"enter two integer numbers"<<endl;  
+cin>>number1>>number2;
 
-  	cout<<"enter two integer numbers"<<endl; 
-  	 cin>>number1>>number2;
-  
   for(int i =number1 ; i>0 ; i--)  
     {
   	  fact1=fact1*i;      
