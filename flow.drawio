@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-10T17:40:08.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="mcjR2lqi9aCvOPM2etR5" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-10T17:45:26.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="sN2LLnqtgNjQ27kAx2fL" version="14.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2031" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -451,7 +451,7 @@
         <mxCell id="85hw435XrvNYK_B15_eo-25" value="als waarde &amp;gt; 512" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="617" y="133" width="137" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="85hw435XrvNYK_B15_eo-28" value="berekent te vertragen waarde (max 35)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="85hw435XrvNYK_B15_eo-28" value="berekent te versnellen waarde (max 35)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="575.5" y="174" width="220" height="19" as="geometry" />
         </mxCell>
         <mxCell id="85hw435XrvNYK_B15_eo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="85hw435XrvNYK_B15_eo-30" target="85hw435XrvNYK_B15_eo-33">
